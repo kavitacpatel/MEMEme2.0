@@ -22,6 +22,11 @@ After selecting image , user can add text to top and bottom.
 
 <img width="552" alt="screen shot 2016-05-13 at 11 54 16 am" src="https://cloud.githubusercontent.com/assets/17104174/15254670/ec1f085e-1905-11e6-95c6-a11a26a93118.png">
 
+After editing , user can share image using media like facebook, twitter or by message. 
+
+<img width="551" alt="screen shot 2016-05-13 at 12 31 13 pm" src="https://cloud.githubusercontent.com/assets/17104174/15254844/d090e03e-1906-11e6-90c7-83e3fae51711.png">
+
+
 User can see MEME images in list view ( tableview) or grid view (collectionview).
 
 <img width="552" alt="screen shot 2016-05-13 at 11 56 24 am" src="https://cloud.githubusercontent.com/assets/17104174/15254676/f0d03328-1905-11e6-8220-ea7693fb63d7.png">
